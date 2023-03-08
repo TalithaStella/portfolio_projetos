@@ -2088,7 +2088,8 @@ button,
     border-bottom: 0;
     color: inherit;
     font-family: "Roboto Slab", serif;
-    font-size: 1.125em; }
+    font-size: 1.125em; 
+  }
   #header .icons {
     text-align: right; }
   @media screen and (max-width: 1680px) {
@@ -2100,12 +2101,7 @@ button,
       #header .logo {
         font-size: 1.25em;
         margin: 0; }
-      #header .icons {
-        height: 5em;
-        line-height: 5em;
-        position: absolute;
-        right: -0.5em;
-        top: 0; } }
+       }
 
 /* Banner */
 #banner {

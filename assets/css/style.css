@@ -8,5 +8,13 @@ body{
 
 .center-profile {
     text-align: -webkit-center!important;
+}
 
+.img-projects {
+    width: 640px!important;
+    height: 450px!important;
+}
+
+.no-break {
+    white-space: nowrap
 }
